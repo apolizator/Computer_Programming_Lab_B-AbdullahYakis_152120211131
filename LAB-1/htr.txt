@@ -1,0 +1,2 @@
+g++ LAB-1/main.cpp -o main
+./main

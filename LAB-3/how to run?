@@ -1,0 +1,4 @@
+how to run?
+
+g++ lab3.cpp -o lab3
+./lab3
